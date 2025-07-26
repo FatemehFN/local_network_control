@@ -1,6 +1,6 @@
 # Local Network Control
 
-This repository contains Python implementations for analyzing and controlling Boolean networks.  The code focuses on identifying influential nodes and computing control sets using approaches such as feedback vertex set (FVS) analysis, betweenness centrality and stable motif (trap space) calculations.  The scripts can be used to process randomly generated networks as well as a collection of curated biological models.
+This repository contains Python implementations for analyzing and controlling Boolean networks.  The code focuses on identifying influential nodes and computing control sets using approaches such as feedback vertex set (FVS) analysis, betweenness centrality and weighted cycle score.  The scripts can be used to process randomly generated networks as well as a collection of curated biological models.
 
 ## Features
 
